@@ -1,0 +1,42 @@
+[33mcommit 37b4caa94e534ab4814e30b607e2ebe6ce10f13f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Zahra Moradi <Z.moradi@tu-bs.de>
+Date:   Mon Dec 5 14:43:59 2022 +0100
+
+    Änderung Zeichen
+
+[33mcommit f5896f85d04f7b8e5b8acb1885039ca2a84eb5a8[m
+Merge: 0fcdc70 39790a2
+Author: Zahra Moradi <Z.moradi@tu-bs.de>
+Date:   Mon Dec 5 14:14:16 2022 +0100
+
+    Merge branch 'master' of https://programming.ias.cs.tu-bs.de/WS2223/y0108329
+
+[33mcommit 0fcdc70506f9933ab2d54e5ab4a304cfa7359f60[m
+Author: Zahra Moradi <Z.moradi@tu-bs.de>
+Date:   Mon Dec 5 14:08:57 2022 +0100
+
+    Veränderung Person A Dateien
+
+[33mcommit 39790a27fbe84c8cf8b3f81942b9c02ed7d8bd9d[m
+Author: y0100065 <m.alqadri@tu-braunschweig.de>
+Date:   Mon Dec 5 13:56:29 2022 +0100
+
+    (Veränderung der Persönlichen Datei )
+
+[33mcommit 4a89c4393af988669831b04a91a2c7175d456204[m
+Author: y0100065 <m.alqadri@tu-braunschweig.de>
+Date:   Mon Dec 5 12:39:52 2022 +0100
+
+    (Veränderungen meinen Persönlichen Daten)
+
+[33mcommit 159dfa76cc2448b216746174be75194813f96d76[m
+Author: Zahra Moradi <Z.moradi@tu-bs.de>
+Date:   Wed Nov 23 09:52:34 2022 +0100
+
+    pushing a test file
+
+[33mcommit 3d0cf24c815ec575416ddde9a163900736c5ac7a[m
+Author: GiteaBoss <boss@localhost>
+Date:   Thu Nov 3 10:35:42 2022 +0100
+
+    Initial commit
